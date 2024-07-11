@@ -1,7 +1,10 @@
+#EXTM3U
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
 #EXTM3U url-tvg="http://trada.info/epg.xml"
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml.gz"
 #EXTM3U url-tvg="http://192.168.1.245:9981/xmltv/channels"
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0, ExoPlayer, VLC/3.0.17.4, LibVLC/3.0.17.4, ReactNativeVideo/3.4.4, AppleWebKit/537.36, VLC, VLC/3554, Wink/1.31.1  OTT Navigator/1.6.7.7 ExoPlayerLib/2.15.1
 
 #-------------------------VTVcab---------------------------#
 #EXTINF:-1 tvg-id="vtvcab1hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/12.png",ON Vie Giải trí
